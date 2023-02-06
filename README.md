@@ -4,8 +4,6 @@ This project was created for the CS3650 Computer Systems class. Our goal was to 
 
 - [Makefile](Makefile)   - Targets are explained in the assignment text
 - [README.md](README.md) - This README
-- [helpers](helpers)     - Helper code implementing access to bitmaps and blocks
-- [hints](hints)         - Incomplete bits and pieces that you might want to use as inspiration
 - [nufs.c](nufs.c)       - The main file of the file system driver
 - [test.pl](test.pl)     - Tests to exercise the file system
 
