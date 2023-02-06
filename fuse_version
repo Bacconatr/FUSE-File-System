@@ -1,0 +1,4 @@
+Command 'pkg-confid' not found, did you mean:
+  command 'pkg-config' from deb pkg-config (0.29.2-1ubuntu3)
+  command 'pkg-config' from deb pkgconf (1.8.0-1)
+Try: sudo apt install <deb name>
