@@ -1,6 +1,6 @@
 # Project 2: File System
 
-This is the starter code for [Project 2](https://course.ccs.neu.edu/cs3650f22/p2.html). The following contents are provided:
+This project was created for the CS3650 Computer Systems class. Our goal was to implement a file system using inodes in order to keep track of where data is being stored. This file system, using the FUSE API, implements the same functionality as a normal filesystem
 
 - [Makefile](Makefile)   - Targets are explained in the assignment text
 - [README.md](README.md) - This README
